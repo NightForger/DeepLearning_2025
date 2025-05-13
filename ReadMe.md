@@ -55,5 +55,5 @@ Below is a detailed breakdown of the course topics, including links to lecture s
 ### Teaching Assistants (TAs)
 
 * Ilya Olkov: [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olkovi)
-* [TA 2 Name] - [Contact Info/Link Placeholder]
+* Daria Voronkova: [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HyljbxIAAAAJ&hl=ru)
 * Andrey Lovyagin: [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NightForger)
